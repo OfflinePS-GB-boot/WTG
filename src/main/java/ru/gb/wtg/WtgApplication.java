@@ -6,6 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class WtgApplication {
 
+
+
     public static void main(String[] args) {
         SpringApplication.run(WtgApplication.class, args);
     }
